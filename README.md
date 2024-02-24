@@ -1,0 +1,1 @@
+This program will calculate the payment of a car you are looking to purchase. It will take into consideration the following variables: Price, Downpayment, Intrest rate, Length of loan, Trade in value, Amount you owe on the traded in car
